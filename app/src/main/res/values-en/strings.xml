@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="welcome">Welcome to the StoryApp</string>
+    <string name="welcome_login">Please log in</string>
+    <string name="logo">logo</string>
+    <string name="input_email">Enter Email</string>
+    <string name="invalid_email">Invalid Format</string>
+    <string name="input_pass">Enter Password</string>
+    <string name="invalid_password">Password at least 8 characters</string>
+    <string name="dont_have_account">Dont have an account yet?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="signup">Register</string>
+    <string name="login">Log in</string>
+    <string name="title_registrasi">Please complete the data below</string>
+    <string name="sign_up">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Exit</string>
+    <string name="name_required">Name Required</string>
+    <string name="check_input">Check Input</string>
+    <string name="name">Name</string>
+    <string name="preview">Preview</string>
+    <string name="camera">camera</string>
+    <string name="gallery">Galery</string>
+    <string name="add_story">Add Story</string>
+    <string name="setting">Setting</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="input_image_first">Insert Image!</string>
+    <string name="didnt_get_permission">No Permission</string>
+</resources>
